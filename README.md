@@ -31,9 +31,8 @@
 <details open>
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
-  <table><tr><th>待确认 / To be confirmed</th></tr><tr><td>
-  <a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img src="https://img.shields.io/badge/Sponsor%2001%20%C2%B7%20Pending-D90368?style=for-the-badge" alt="Sponsor slot 1 — pending" /></a>
-  <a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img src="https://img.shields.io/badge/Sponsor%2002%20%C2%B7%20Pending-2A0060?style=for-the-badge" alt="Sponsor slot 2 — pending" /></a>
+  <table><tr><th>极算悦智</th></tr><tr><td align="center">
+  <a href="https://jisuan.super.tose.asia/"><img src="assets/valiora-logo.png" width="48" height="48" align="absmiddle" alt="极算悦智 Logo" />&nbsp;&nbsp;<strong>VALIORA</strong></a>
   </td></tr></table>
 
   <a href="https://sam.super.tose.asia/"><img src="https://img.shields.io/badge/More%20About%20My%20Work-1F222E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="More about my work" /></a>
@@ -161,7 +160,7 @@
   <summary>Profile links &amp; pending content / 待补充内容</summary>
 
   <p>Verified links: <a href="https://github.com/xiao222xian">GitHub</a> · <a href="https://sam.super.tose.asia/">Portfolio</a> · <a href="https://jisuan.super.tose.asia/">Valiora</a>.</p>
-  <p>YouTube、LinkedIn、X、Discord、Dev.to、Ko-fi、赞助者、视频和成就暂为待确认位置；不是对账号归属、赞助关系或个人荣誉的声明。</p>
+  <p>YouTube、LinkedIn、X、Discord、Dev.to、Ko-fi、视频和成就暂为待确认位置；不是对账号归属或个人荣誉的声明。Sponsor 区展示本人的公司极算悦智（VALIORA），链接至公司官网。</p>
 </details>
 
 <sub>Layout reference: <a href="https://github.com/DenverCoder1">DenverCoder1</a> · Pink typing SVG, icon spacing, badge palette and project-card dimensions follow the reference. <a href="ATTRIBUTION.md">Credits</a>.</sub>
