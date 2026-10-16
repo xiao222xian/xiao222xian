@@ -146,7 +146,7 @@
   <br/>
   <b>Note:</b> Language statistics describe public repository code, not experience or skill level. Private project source remains private.
 
-  <p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=xiao222xian&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" alt="Sam's activity graph" /></a></p>
+  <p><a href="https://github.com/xiao222xian?tab=overview"><img src="assets/activity.svg" alt="Sam's activity graph — verified snapshot 2026-10-16" /></a></p>
 
   <h3>⚡ Recent GitHub Activity</h3>
   <p><a href="https://github.com/xiao222xian?tab=overview">View my real GitHub activity →</a></p>
