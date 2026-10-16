@@ -48,7 +48,7 @@
     <a href="https://github.com/xiao222xian/ted-multiagent-research-notes"><img width="278" src="assets/ted-multiagent-research-notes.svg" alt="TED · Multi-Agent Research" /></a>
     <a href="https://github.com/xiao222xian/aicoo-name-card"><img width="278" src="assets/aicoo-name-card.svg" alt="Aicoo Name Card" /></a>
     <a href="https://github.com/xiao222xian/pet-health-app"><img width="278" src="assets/pet-health-app.svg" alt="Pet Health App" /></a>
-    <a href="https://github.com/xiao222xian/foga-miniapp-design-share"><img width="278" src="assets/foga-miniapp-design-share.svg" alt="FOGA · Mini App Design" /></a>
+    <a href="https://github.com/xiao222xian/foga-miniapp-design-share"><img width="278" src="assets/foga-miniapp-design-share.svg" alt="FOGA · Outdoor Growth" /></a>
     <a href="https://github.com/xiao222xian/hua-yu-shou-design-share"><img width="278" src="assets/hua-yu-shou-design-share.svg" alt="Hua Yu Shou · Design" /></a>
     <a href="https://sam.super.tose.asia/"><img width="278" src="assets/portfolio.svg" alt="Sam · Portfolio" /></a>
   </p>
@@ -68,7 +68,7 @@
     <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-eyd.svg" alt="EYD" /></a>
     <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-meetwell.svg" alt="Meetwell" /></a>
     <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-cleaning.svg" alt="Zijing Cleaning" /></a>
-    <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-foga.svg" alt="FOGA" /></a>
+    <a href="https://github.com/xiao222xian/foga-miniapp-design-share"><img width="278" src="assets/work-foga.svg" alt="FOGA" /></a>
   </p>
 
   <a href="https://sam.super.tose.asia/#project"><img src="https://img.shields.io/badge/Click%20Here%20For%20My%20Portfolio-1F222E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="View portfolio" /></a>
