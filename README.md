@@ -64,7 +64,7 @@
     <a href="https://www.sharednet.ai/"><img width="278" src="assets/work-sharednet.svg" alt="SharedNet" /></a>
     <a href="https://github.com/xiao222xian/fuyao-zhiyuan-platform"><img width="278" src="assets/work-fuyao.svg" alt="Fuyao" /></a>
     <a href="https://github.com/xiao222xian/audio-memory-research-notes"><img width="278" src="assets/work-spiro.svg" alt="SpiroSense" /></a>
-    <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-firstlook.svg" alt="FirstLook" /></a>
+    <a href="https://github.com/xiao222xian/firstlook-showcase"><img width="278" src="assets/work-firstlook.svg" alt="FirstLook" /></a>
     <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-eyd.svg" alt="EYD" /></a>
     <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-meetwell.svg" alt="Meetwell" /></a>
     <a href="https://sam.super.tose.asia/#project"><img width="278" src="assets/work-cleaning.svg" alt="Zijing Cleaning" /></a>
