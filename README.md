@@ -2,17 +2,17 @@
 
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Agent+%26+Full-Stack+Developer;Building+AI+products+people+can+use;From+research+to+real-world+systems;Always+learning+new+things&amp;font=Fira+Code&amp;center=true&amp;width=440&amp;height=45&amp;color=f75c7e&amp;vCenter=true&amp;pause=1000&amp;size=22" alt="AI Agent and Full-Stack Developer" /></a></p>
 
-<p align="center"><a href="#user-content-profile-links"><img width="32" src="https://i.imgur.com/qiXu7b2.png" alt="YouTube · 待补充 / Pending" /></a>
+<p align="center"><a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="32" src="https://i.imgur.com/qiXu7b2.png" alt="YouTube · 待补充 / Pending" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="#user-content-profile-links"><img width="32" src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn · 待补充 / Pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="32" src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn · 待补充 / Pending" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="#user-content-profile-links"><img width="32" src="https://i.imgur.com/AixJgnm.png" alt="X · 待补充 / Pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="32" src="https://i.imgur.com/AixJgnm.png" alt="X · 待补充 / Pending" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="#user-content-profile-links"><img width="32" src="https://i.imgur.com/OViZO8J.png" alt="Discord · 待补充 / Pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="32" src="https://i.imgur.com/OViZO8J.png" alt="Discord · 待补充 / Pending" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="#user-content-profile-links"><img width="32" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to · 待补充 / Pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="32" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to · 待补充 / Pending" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="#user-content-profile-links"><img width="32" src="https://i.imgur.com/PpLeD3K.png" alt="Ko-fi · 待补充 / Pending" /></a></p>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="32" src="https://i.imgur.com/PpLeD3K.png" alt="Ko-fi · 待补充 / Pending" /></a></p>
 
 <br/>
 
@@ -32,8 +32,8 @@
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
   <table><tr><th>待确认 / To be confirmed</th></tr><tr><td>
-  <a href="#user-content-profile-links"><img src="https://img.shields.io/badge/Sponsor%2001%20%C2%B7%20Pending-D90368?style=for-the-badge" alt="Sponsor slot 1 — pending" /></a>
-  <a href="#user-content-profile-links"><img src="https://img.shields.io/badge/Sponsor%2002%20%C2%B7%20Pending-2A0060?style=for-the-badge" alt="Sponsor slot 2 — pending" /></a>
+  <a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img src="https://img.shields.io/badge/Sponsor%2001%20%C2%B7%20Pending-D90368?style=for-the-badge" alt="Sponsor slot 1 — pending" /></a>
+  <a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img src="https://img.shields.io/badge/Sponsor%2002%20%C2%B7%20Pending-2A0060?style=for-the-badge" alt="Sponsor slot 2 — pending" /></a>
   </td></tr></table>
 
   <a href="https://sam.super.tose.asia/"><img src="https://img.shields.io/badge/More%20About%20My%20Work-1F222E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="More about my work" /></a>
@@ -78,12 +78,12 @@
 <details>
   <summary><h2>📺 Latest Videos</h2></summary>
 
-  <p><a href="#user-content-profile-links"><img width="250" src="assets/video-1.svg" alt="Video slot 1 — pending" /></a>
-<a href="#user-content-profile-links"><img width="250" src="assets/video-2.svg" alt="Video slot 2 — pending" /></a>
-<a href="#user-content-profile-links"><img width="250" src="assets/video-3.svg" alt="Video slot 3 — pending" /></a>
-<a href="#user-content-profile-links"><img width="250" src="assets/video-4.svg" alt="Video slot 4 — pending" /></a>
-<a href="#user-content-profile-links"><img width="250" src="assets/video-5.svg" alt="Video slot 5 — pending" /></a>
-<a href="#user-content-profile-links"><img width="250" src="assets/video-6.svg" alt="Video slot 6 — pending" /></a></p>
+  <p><a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="250" src="assets/video-1.svg" alt="Video slot 1 — pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="250" src="assets/video-2.svg" alt="Video slot 2 — pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="250" src="assets/video-3.svg" alt="Video slot 3 — pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="250" src="assets/video-4.svg" alt="Video slot 4 — pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="250" src="assets/video-5.svg" alt="Video slot 5 — pending" /></a>
+<a href="https://github.com/xiao222xian/xiao222xian/blob/main/ATTRIBUTION.md"><img width="250" src="assets/video-6.svg" alt="Video slot 6 — pending" /></a></p>
   <p>视频入口待补充。保留参考页的六卡片排版，不将他人的视频作为本人作品。</p>
 </details>
 
