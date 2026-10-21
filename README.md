@@ -50,7 +50,7 @@
     <a href="https://github.com/xiao222xian/pet-health-app"><img width="278" src="assets/pet-health-app.svg" alt="Pet Health App" /></a>
     <a href="https://github.com/xiao222xian/foga-miniapp-design-share"><img width="278" src="assets/foga-miniapp-design-share.svg" alt="FOGA · Outdoor Growth" /></a>
     <a href="https://github.com/xiao222xian/hua-yu-shou-design-share"><img width="278" src="assets/hua-yu-shou-design-share.svg" alt="Hua Yu Shou · Design" /></a>
-    <a href="https://sam.super.tose.asia/"><img width="278" src="assets/portfolio.svg" alt="Sam · Portfolio" /></a>
+    <a href="https://github.com/xiao222xian/LEANCLUB"><img width="278" src="assets/leanclub.svg" alt="LEANCLUB · Global Campus Community" /></a>
   </p>
 
   <a href="https://github.com/xiao222xian?tab=repositories"><img src="https://img.shields.io/badge/Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="All repositories" /></a>
